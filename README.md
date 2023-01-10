@@ -41,7 +41,7 @@
 <details>
     <summary>ÖnKoşullar</summary>
     <ul>
-        <li><a href="https://www.python.org/downloads/windows/"><p>Python</p></a></li>
+        <li><a href="https://www.python.org/downloads/windows/"><p>Python (İndirilişte Path Seçeneğini Seçin)</p></a></li>
         <li><a href="https://git-scm.com/download/win"><p>Git</p></a></li>
     <ul>
 </details>
