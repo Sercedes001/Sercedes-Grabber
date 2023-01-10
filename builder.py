@@ -6,7 +6,6 @@ import re
 import requests
 from InquirerPy import prompt # type: ignore
 
-print (" Eğerki Hiçbir Seçeneği Seçmezseniz Varsayılan Olarak "Evet" Olarak Sayılacaktır.
 
 def get_config() -> dict:
     questions = [
