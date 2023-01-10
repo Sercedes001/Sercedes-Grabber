@@ -82,4 +82,4 @@ Sercedes <a href="https://mit-license.org/">MIT License</a> Altına Lisanslanmı
 
 <img src="https://cdn.discordapp.com/attachments/1062070879418318929/1062094187081773108/sercedes_alt.png">
 
-SADECE ÖĞRETİM AMAÇLI YAPILMIŞ BİR ÇALIŞMADIR HERHANGİ İLLEGAL DURUM SÖZ KONUSU DEĞİLDİR.
+- SADECE ÖĞRETİM AMAÇLI YAPILMIŞ BİR ÇALIŞMADIR HERHANGİ İLLEGAL DURUM SÖZ KONUSU DEĞİLDİR.
