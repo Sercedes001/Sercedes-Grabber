@@ -64,7 +64,7 @@ cd Sercedes
 ./build.bat
 ```
 
-Daha Gizli Kalmak İçin <li><a href="https://obfuscator.io/">Obfuscatorlayın
+Daha Gizli Kalmak İçin <li><a href="https://obfuscator.io/">Obfuscator Yapın
 
 ## License
 
